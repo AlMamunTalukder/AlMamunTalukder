@@ -20,16 +20,16 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 - 👯 I’m looking to collaborate on Font-End Web Development. 
 - 💬 Ask me about Web Development (**Tailwind CSS, JS, Node JS, React**)
 - 📧 Let's connect: almamuntalukder0@gmail.com
-  
--🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
+
+🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almamuntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="almamuntalukder" /> </p>
 
 <h3 align="left">GitHub Streak Stats:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2" alt="GitHub Streak" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almamuntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="almamuntalukder" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
