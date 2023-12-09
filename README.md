@@ -6,7 +6,7 @@
 
 🚀 In the last 6 months, I've been immersed in the world of frontend development, crafting engaging and user-friendly interfaces.
 
-🌐 Keen interest in becoming a Full-Stack Developer, currently expanding my horizons in backend technologies.
+🌐 Keen interest in becoming a Full-Stack Developer, currently expanding my horizons in Fontend technologies.
 
 🔧 Tech Stack: React, JavaScript, HTML, CSS, Tailwind CSS, JSX
 
@@ -18,9 +18,7 @@
 - 💬 Ask me about **Tailwind CSS, JS, Node JS, React**
 - 📧 Let's connect: almamuntalukder0@gmail.com
 
-📚 Constantly learning and evolving: Exploring PHP, Laravel, and Flutter to broaden my skill set.
-
-🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
+-🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
 
 
 
