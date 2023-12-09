@@ -44,7 +44,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamunTalukder&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlMamunTalukder&show_icons=true&count_private=true&theme=ambient_gradient" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlMamunTalukder&show_icons=true&count_private=true&theme=ambient_gradient" width="65%" />
 </div>
 
 
