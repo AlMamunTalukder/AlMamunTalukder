@@ -6,7 +6,7 @@
 MERN Stack Web Developer
 
 Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 - 🔭 I’m currently working on React. 
 - 🌱 I’m currently learning Next.js. 
 - 👯 I’m looking to collaborate on Font-End Web Development. 
