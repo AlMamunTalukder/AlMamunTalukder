@@ -1,4 +1,4 @@
-![Font-End Web Developer]([https://media.licdn.com/dms/image/D5616AQHOeenTTNvFMA/profile-displaybackgroundimage-shrink_350_1400/0/1702086850643?e=1707350400&v=beta&t=OF2MLRl8_HeL7_Lae2Zi4RXXSaAkahhiICtPKUZnxyU](https://www.canva.com/design/DAF2cN9BRks/pZJ9_HbDJ5pWsW597YUPzQ/edit?utm_content=DAF2cN9BRks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Font-End Web Developer](https://github.com/AlMamunTalukder/AlMamunTalukder/blob/main/screencapture-file-C-Users-almam-Downloads-Documents-Blue-and-Pink-Professional-Business-Strategy-Presentation-2-pdf-2023-12-09-08_20_14.png)
 
 ### Hi there 👋, I'm Al Mamun Talukder
 #### Font-End Web Developer
