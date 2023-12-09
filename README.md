@@ -31,7 +31,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlMamunTalukder&theme=vision_friendly_dark)
 <h3 align="center">GitHub Streak Stats:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2" alt="GitHub Streak" />
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,7 +55,7 @@
 
 
 
-
+</div>
 
 
 
