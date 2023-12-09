@@ -1,21 +1,33 @@
 ![Font-End Web Developer](https://github.com/AlMamunTalukder/AlMamunTalukder/blob/main/screencapture-file-C-Users-almam-Downloads-Documents-Blue-and-Pink-Professional-Business-Strategy-Presentation-2-pdf-2023-12-09-08_20_14.png)
 
 <h1 align="center">Hi 👋, I'm Al Mamun Talukder</h1>
-<h3 align="center">A Passionate Frontend Developer from Dhaka, Bangladesh.</h3>
+<h3 align="center">Passionate Frontend Developer | Aspiring Full-Stack Developer</h3>
+🎓 Graduated from Daffodil International Academy
 
-MERN Stack Web Developer
+🚀 In the last 6 months, I've been immersed in the world of frontend development, crafting engaging and user-friendly interfaces.
 
-Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
+🌐 Keen interest in becoming a Full-Stack Developer, currently expanding my horizons in backend technologies.
+
+🔧 Tech Stack: React, JavaScript, HTML, CSS, Tailwind CSS, JSX
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 - 🔭 I’m currently working on React. 
 - 🌱 I’m currently learning Next.js. 
 - 👯 I’m looking to collaborate on Font-End Web Development. 
 - 💬 Ask me about **Tailwind CSS, JS, Node JS, React**
-- 📫 How to reach me **almamuntalukder0@gmail.com**
+- 📧 Let's connect: almamuntalukder0@gmail.com
+
+📚 Constantly learning and evolving: Exploring PHP, Laravel, and Flutter to broaden my skill set.
+
+🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
 
 
-<h3 align="left">Github Streak Stats:</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
+<h3 align="left">GitHub Streak Stats:</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2" alt="GitHub Streak" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almamuntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="almamuntalukder" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -41,21 +53,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 
 
-<h1 align="center">Hi 👋, I'm Al Mamun Talukder</h1>
-<h3 align="center">Passionate Frontend Developer | Aspiring Full-Stack Developer</h3>
-🎓 Graduated from Daffodil International Academy
 
-🚀 In the last 6 months, I've been immersed in the world of frontend development, crafting engaging and user-friendly interfaces.
-
-🌐 Keen interest in becoming a Full-Stack Developer, currently expanding my horizons in backend technologies.
-
-🔧 Tech Stack: React, JavaScript, HTML, CSS, Tailwind CSS, JSX
-
-📚 Constantly learning and evolving: Exploring PHP, Laravel, and Flutter to broaden my skill set.
-
-🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
-
-📧 Let's connect: almamuntalukder0@gmail.com
 
 
 
