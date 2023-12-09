@@ -8,10 +8,18 @@
 
 🌐 Keen interest in becoming a Full-Stack Developer, currently expanding my horizons in Fontend technologies.
 
-🔧 Tech Stack: React, JavaScript, HTML, CSS, Tailwind CSS, JSX
+
 <h1 align="center"></h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+
+Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
+
+- 🔭 I’m currently working on React. 
+- 🌱 I’m currently learning Next.js. 
+- 👯 I’m looking to collaborate on Font-End Web Development. 
+- 💬 Ask me about Web Development
+- 
 - 🔭 I’m currently working on React. 
 - 🌱 I’m currently learning Next.js. 
 - 👯 I’m looking to collaborate on Font-End Web Development. 
