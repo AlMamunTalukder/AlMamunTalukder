@@ -18,14 +18,8 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 - 🔭 I’m currently working on React. 
 - 🌱 I’m currently learning Next.js. 
 - 👯 I’m looking to collaborate on Font-End Web Development. 
-- 💬 Ask me about Web Development
-- 
-- 🔭 I’m currently working on React. 
-- 🌱 I’m currently learning Next.js. 
-- 👯 I’m looking to collaborate on Font-End Web Development. 
-- 💬 Ask me about **Tailwind CSS, JS, Node JS, React**
+- 💬 Ask me about Web Development (**Tailwind CSS, JS, Node JS, React**)
 - 📧 Let's connect: almamuntalukder0@gmail.com
-
 -🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
 
 
