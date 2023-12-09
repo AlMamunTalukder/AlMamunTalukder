@@ -1,6 +1,7 @@
+![Font-End Web Developer]([https://media.licdn.com/dms/image/D5616AQHOeenTTNvFMA/profile-displaybackgroundimage-shrink_350_1400/0/1702086850643?e=1707350400&v=beta&t=OF2MLRl8_HeL7_Lae2Zi4RXXSaAkahhiICtPKUZnxyU](https://www.canva.com/design/DAF2cN9BRks/pZJ9_HbDJ5pWsW597YUPzQ/edit?utm_content=DAF2cN9BRks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+
 ### Hi there 👋, I'm Al Mamun Talukder
 #### Font-End Web Developer
-![Font-End Web Developer](https://media.licdn.com/dms/image/D5616AQHOeenTTNvFMA/profile-displaybackgroundimage-shrink_350_1400/0/1702086850643?e=1707350400&v=beta&t=OF2MLRl8_HeL7_Lae2Zi4RXXSaAkahhiICtPKUZnxyU)
 
 MERN Stack Web Developer
 
@@ -11,6 +12,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 - 👯 I’m looking to collaborate on Font-End Web Development. 
 - 💬 Ask me about Web Development 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlMamunTalukder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amtalukder//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/@amtsokal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/a_m_talukder)  
 
@@ -24,4 +26,4 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
