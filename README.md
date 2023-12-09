@@ -38,14 +38,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlMamunTalukder&show_icons=true&count_private=true&theme=ambient_gradient)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamunTalukder&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlMamunTalukder&show_icons=true&count_private=true&theme=ambient_gradient)
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamunTalukder&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlMamunTalukder&show_icons=true&count_private=true&theme=ambient_gradient" width="65%" />
-</div>
 
 
 
