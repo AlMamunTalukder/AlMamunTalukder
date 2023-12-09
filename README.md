@@ -22,7 +22,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlMamunTalukder&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/AlMamunTalukder)  
+
 
 
 
