@@ -13,11 +13,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 - 💬 Ask me about **Tailwind CSS, JS, Node JS, React**
 - 📫 How to reach me **almamuntalukder0@gmail.com**
 
-<br/>
-<br/>
 
-<br/>
-<br/>
 <h3 align="left">Github Streak Stats:</h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2)](https://git.io/streak-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almamuntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="almamuntalukder" /> </p>
