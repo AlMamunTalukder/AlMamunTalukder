@@ -26,6 +26,9 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almamuntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="almamuntalukder" /> </p>
 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlMamunTalukder&theme=vision_friendly_dark)
 <h3 align="left">GitHub Streak Stats:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AlMamunTalukder&theme=whatsapp-dark2" alt="GitHub Streak" />
 
