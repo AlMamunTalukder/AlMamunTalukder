@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
+🔧 Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 - 🔭 I’m currently working on React. 
 - 🌱 I’m currently learning Next.js. 
