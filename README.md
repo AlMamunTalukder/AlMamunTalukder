@@ -41,7 +41,21 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS / JSX
 
 
 
+<h1 align="center">Hi 👋, I'm Al Mamun Talukder</h1>
+<h3 align="center">Passionate Frontend Developer | Aspiring Full-Stack Developer</h3>
+🎓 Graduated from Daffodil International Academy
 
+🚀 In the last 6 months, I've been immersed in the world of frontend development, crafting engaging and user-friendly interfaces.
+
+🌐 Keen interest in becoming a Full-Stack Developer, currently expanding my horizons in backend technologies.
+
+🔧 Tech Stack: React, JavaScript, HTML, CSS, Tailwind CSS, JSX
+
+📚 Constantly learning and evolving: Exploring PHP, Laravel, and Flutter to broaden my skill set.
+
+🌟 Dedicated to enhancing my development skills day by day, with a commitment to delivering high-quality and innovative solutions.
+
+📧 Let's connect: almamuntalukder0@gmail.com
 
 
 
