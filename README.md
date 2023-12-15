@@ -1,4 +1,4 @@
-![Font-End Web Developer](https://github.com/AlMamunTalukder/AlMamunTalukder/blob/main/screencapture-file-C-Users-almam-Downloads-Documents-Blue-and-Pink-Professional-Business-Strategy-Presentation-2-pdf-2023-12-09-08_20_14.png)
+<!--![Font-End Web Developer](https://github.com/AlMamunTalukder/AlMamunTalukder/blob/main/screencapture-file-C-Users-almam-Downloads-Documents-Blue-and-Pink-Professional-Business-Strategy-Presentation-2-pdf-2023-12-09-08_20_14.png)-->
 ![Font-End Web Developer](https://github.com/AlMamunTalukder/own-portfolio/blob/main/ezgif.com-video-to-gif-converted.gif)
 
 
